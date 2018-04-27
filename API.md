@@ -70,3 +70,22 @@ Return:
     }
 ]
 ```
+
+##3. find user
+
+**POST find_product.php**
+
+Params(form data):
+`userName`
+`password`
+
+Return:
+```
+[
+    {
+        "userID": "20160001"
+        "userName": "Marcelo83"
+        "password": "BEaARV4sIJ8otpJ"
+    }
+]
+```
